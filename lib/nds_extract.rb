@@ -21,7 +21,7 @@ def directors_totals(nds)
 totals
 end
 #   directors_index = 0
-#   total = 0
+#   total = {}
 #   while directors_index < nds.length do
 #     element_index = 0
 #     while element_index < nds[row_index].count do
